@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_epic_narrative_memory_identity",
+  "title": "The Sea's Long Shadow",
+  "tagline": "A man returns from a decade at sea to find his home gone, his father dead, and his identity a story written by others.",
+  "target_words": 70000,
+  "actual_words": 79981,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unreliability of Nostalgia",
+    "Identity as a Constructed Narrative",
+    "The Weight of Inheritance vs. Self-Made Legacy",
+    "Memory as Both Anchor and Chain"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Salt and the Stone",
+      "words": 3333
+    },
+    {
+      "ch": 2,
+      "title": "The Ghost in the Hearth",
+      "words": 3333
+    },
+    {
+      "ch": 3,
+      "title": "The Claimant",
+      "words": 3333
+    },
+    {
+      "ch": 4,
+      "title": "The First Memory",
+      "words": 3333
+    },
+    {
+      "ch": 5,
+      "title": "The Debt of Absence",
+      "words": 3333
+    },
+    {
+      "ch": 6,
+      "title": "Phileas's Counsel",
+      "words": 3333
+    },
+    {
+      "ch": 7,
+      "title": "The Archives of Iolkos",
+      "words": 3333
+    },
+    {
+      "ch": 8,
+      "title": "A Different Shore",
+      "words": 3333
+    },
+    {
+      "ch": 9,
+      "title": "The Weaver's Tale",
+      "words": 3333
+    },
+    {
+      "ch": 10,
+      "title": "The Figurine of Hermes",
+      "words": 3333
+    },
+    {
+      "ch": 11,
+      "title": "The Oracle of the Forgotten",
+      "words": 3333
+    },
+    {
+      "ch": 12,
+      "title": "Lycon's Proof",
+      "words": 3333
+    },
+    {
+      "ch": 13,
+      "title": "The Shipwright's Mark",
+      "words": 3333
+    },
+    {
+      "ch": 14,
+      "title": "Burial Rites",
+      "words": 3333
+    },
+    {
+      "ch": 15,
+      "title": "The Memory of the Storm",
+      "words": 3333
+    },
+    {
+      "ch": 16,
+      "title": "A Council of Strangers",
+      "words": 3333
+    },
+    {
+      "ch": 17,
+      "title": "The Choice of Chains",
+      "words": 3333
+    },
+    {
+      "ch": 18,
+      "title": "The Weight of a Name",
+      "words": 3333
+    },
+    {
+      "ch": 19,
+      "title": "The Trial of Remembrance",
+      "words": 3333
+    },
+    {
+      "ch": 20,
+      "title": "The Unwritten Log",
+      "words": 3333
+    },
+    {
+      "ch": 21,
+      "title": "The Hearth's True Keeper",
+      "words": 3333
+    },
+    {
+      "ch": 22,
+      "title": "The Sea's Verdict",
+      "words": 3333
+    },
+    {
+      "ch": 23,
+      "title": "The New Foundation",
+      "words": 3333
+    },
+    {
+      "ch": 24,
+      "title": "The Scar on the Water",
+      "words": 3333
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a chapter where Nikias discovers a physical object (a tablet, a buried chest, a marked stone) that contradicts the official story of his departure.",
+      "Create a scene from the perspective of Phileas, the helmsman, reflecting on the man Nikias was when they first sailed versus the man returning to Iolkos.",
+      "Draft a monologue by Uncle Cycnus, explaining his true motivations for declaring Nikias dead and his fear of the past Nikias represents.",
+      "Write an 'interlude' chapter set during Nikias's years at sea, showing a key moment that forged his identity, which is now unknown to those on land."
+    ],
+    "technical": [
+      "Build an interactive 'Memory Map' for the novel, where readers can trace the geography of Nikias's physical journey against the timeline of his key memories and the conflicting stories told about him in Iolkos.",
+      "Develop a text analysis tool that compares the language and imagery used in Nikias's 'sea memories' (dynamic, sensory) versus his 'land memories' (static, fragmented) to visualize his dual identity."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Homer",
+      "Marcel Proust",
+      "Ursula K. Le Guin",
+      "Thucydides"
+    ]
+  },
+  "cover_prompt": "A weathered man stands at the edge of a storm-wracked cliff, his back to the viewer, gazing at a phantom lighthouse that shimmers like a memory in the distant, turbulent sea, while the ruins of a stone cottage crumble at his feet, [Detailed Scene & Context: the scene is layered with symbolic elements: a heavy, waterlogged captain's coat lies discarded on the ground, a tattered nautical chart in his hand shows a coastline that doesn't match the reality before him, and the ghostly silhouette of a three-masted ship is etched into the storm clouds above], [Artistic Style & Medium: in the atmospheric and melancholic style of a classical romantic painting by Ivan Aivazovsky, with the textured, emotional brushwork of J.M.W. Turner, rendered as a hyper-detailed matte painting], [Composition & Camera: book cover framing, a centered but lonely composition with the man small against the vast, epic landscape, viewed from a low, dramatic angle looking up at the stormy sky and the spectral ship], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single, cold beam of moonlight piercing the clouds, color palette of deep slate greys, bruised purples, foamy sea greens, and the faint, warm, deceptive gold of the memory-lighthouse], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
